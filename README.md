@@ -1,3 +1,7 @@
-The entire IMDB home page has been designed to improve the user experience. This site was created using HTML, CSS, JavaScript and more libs...
+Title: IMDB Full Home Page
 
-Web Site Link: https://codex-sky.github.io/Movies-App-IMDB/
+Description: The entire IMDB home page has been designed to improve the user experience.
+
+Used: Built using HTML, CSS, JavaScript, APIs and other libraries...
+
+Website link: https://codex-sky.github.io/Movies-App-IMDB/
