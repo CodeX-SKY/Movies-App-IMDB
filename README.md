@@ -1,0 +1,3 @@
+The entire IMDB home page has been designed to improve the user experience. This site was created using HTML, CSS, JavaScript and more libs...
+
+Web Site Link: https://codex-sky.github.io/Movies-App-IMDB/
